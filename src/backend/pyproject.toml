@@ -1,0 +1,22 @@
+[project]
+name = "backend"
+version = "0.0.0"
+description = "Backend API for tracking time for DevOps certifications"
+readme = "README.md"
+authors = [{ name = "abdulshukor", email = "ashukor232@gmail.com" }]
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.127.0",
+    "httpx>=0.28.1",
+    "uvicorn>=0.40.0",
+]
+
+[project.scripts]
+devops-master-project-api = "backend.main:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/backend"]
+
+[build-system]
+requires = ["uv_build>=0.9.18,<0.10.0"]
+build-backend = "uv_build"
