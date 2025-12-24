@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.0...backend-v0.2.1) (2025-12-24)
+
+
+### Bug Fixes
+
+* **backend:** trigger ci ([#13](https://github.com/abdulshukor/devops-master-project/issues/13)) ([5f5c203](https://github.com/abdulshukor/devops-master-project/commit/5f5c2030afd0907e334a97d1705d31059481be63))
+
 ## [0.2.0](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.1.0...backend-v0.2.0) (2025-12-23)
 
 
