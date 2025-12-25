@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.3...backend-v0.2.4) (2025-12-25)
+
+
+### Bug Fixes
+
+* **backednd:** e2e trigger ([ccf49fd](https://github.com/abdulshukor/devops-master-project/commit/ccf49fdae7ecfa208f9623971ec718b0cb2964bf))
+
 ## [0.2.3](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.2...backend-v0.2.3) (2025-12-25)
 
 
