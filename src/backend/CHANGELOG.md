@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.5](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.4...backend-v0.2.5) (2025-12-25)
+
+
+### Bug Fixes
+
+* **backend:** backend ([b9d9fca](https://github.com/abdulshukor/devops-master-project/commit/b9d9fcad60ae8f13e6676f0d153a8d6a4df7bc5c))
+
 ## [0.2.4](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.3...backend-v0.2.4) (2025-12-25)
 
 
