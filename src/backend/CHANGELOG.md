@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.2...backend-v0.2.3) (2025-12-25)
+
+
+### Bug Fixes
+
+* **backend:** e2e test ([6112af0](https://github.com/abdulshukor/devops-master-project/commit/6112af078ba80cbc9ef8674611975401a2670b39))
+
 ## [0.2.2](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.1...backend-v0.2.2) (2025-12-24)
 
 
