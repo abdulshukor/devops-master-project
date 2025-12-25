@@ -15,7 +15,7 @@ on:
       GITOPS_DEPLOY_KEY:
         required: true
         description: "Deploy key for GitOps repository"
-      DEVOPS_STUDY_APP:
+      DEVOPS_STUDY_APP_2:
         required: true
         description: "PAT GitOps repository"
 
