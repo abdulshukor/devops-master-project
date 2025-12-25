@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.6](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.5...backend-v0.2.6) (2025-12-25)
+
+
+### Bug Fixes
+
+* **backend:** workflow test ([f2192ee](https://github.com/abdulshukor/devops-master-project/commit/f2192ee13450fdbb2d44c96ac27c5c17b88aee4c))
+
 ## [0.2.5](https://github.com/abdulshukor/devops-master-project/compare/backend-v0.2.4...backend-v0.2.5) (2025-12-25)
 
 
